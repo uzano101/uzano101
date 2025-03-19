@@ -1,7 +1,8 @@
 # Hi All 👋, I'm Alon Uzan
-🎓 Computer Science student at the Hebrew University of Jerusalem.
+🍎 IOS Developer @ Lightricks
+🎓 Computer Science student @ the Hebrew University of Jerusalem.
 <br>
-🎨 Game Development and Design student at Bezalel Academy.
+🎨 Game Development and Design student @ Bezalel Academy.
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-uzan-559782226)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alon.uzan@mail.huji.ac.il)
