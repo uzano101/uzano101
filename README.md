@@ -1,5 +1,6 @@
 # Hi All 👋, I'm Alon Uzan
 🍎 IOS Developer @ Lightricks
+<br>
 🎓 Computer Science student @ the Hebrew University of Jerusalem.
 <br>
 🎨 Game Development and Design student @ Bezalel Academy.
